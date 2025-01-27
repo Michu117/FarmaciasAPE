@@ -9,11 +9,16 @@ El sistema se desarrollará utilizando el framework Django, permitiendo la gesti
 
 ## Características del Proyecto
 **1. Gestión de Inventario:** Controlar el stock de medicamentos en cada sucursal.
+
 **2. Venta de Medicamentos:** Permitir la venta de productos disponibles en la sucursal.
+
 **3. Transferencias entre Sucursales:** Habilitar la compra de medicamentos desde otra sucursal en caso de falta de stock local.
+
 **4. Opciones de Entrega:** Ofrecer la opción de retirar el medicamento en la sucursal o enviarlo a la sucursal de origen.
+
 **5. Registro de Clientes y Pedidos:** Gestionar clientes, pedidos y seguimiento de entrega.
-6. **Autenticación de Usuarios:** Roles para administrador, empleado de sucursal y cliente.
+
+**6. Autenticación de Usuarios:** Roles para administrador, empleado de sucursal y cliente.
 
 ## Diagrama de Clases
 ![image](https://github.com/user-attachments/assets/52f4ff3f-8f2b-4b40-8e85-b182fb5b1674)
