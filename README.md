@@ -36,12 +36,12 @@ El sistema se desarrollará utilizando el framework Django, permitiendo la gesti
 
 6. templates
 
-### Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Lenguaje:** Python
 - **Framework:** Django
 
-### Capturas de la Interfaz:
+## Capturas de la Interfaz:
 - El sitio por defecto es el apartado de login.
 ![image](https://github.com/user-attachments/assets/5ab9edda-2d8e-4984-8632-d6cf7f9385e1)
 
@@ -81,7 +81,7 @@ Apartado para visualizar las facturas generadas.
 Apartado para crear facturas.
 ![image](https://github.com/user-attachments/assets/37f1d0be-c5ec-4407-b403-d9988d40ef07)
 
-### Reflexión
+## Reflexión
 
 El sistema FarmaciasAPE propuesto representa un enfoque integral y bien organizado para resolver un problema práctico en la gestión de la cadena de farmacias. El producto es capaz de satisfacer la necesidad de disponibilidad del producto en todas las sucursales, no solo mejorando la experiencia del cliente sino también mejorando las operaciones internas de la empresa. El uso de Django como marco de trabajo mejora la solidez técnica del proyecto, aprovechando su potencia para desarrollar funciones importantes como la gestión de inventario, las transferencias y la autenticación de usuarios con un rol específico. Además, las capturas de pantalla proporcionadas muestran una interfaz clara y fácil de usar que facilita Interacción entre clientes, empleados y administradores.
 
