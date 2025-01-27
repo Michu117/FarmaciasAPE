@@ -21,7 +21,7 @@ El sistema se desarrollará utilizando el framework Django, permitiendo la gesti
 **6. Autenticación de Usuarios:** Roles para administrador, empleado de sucursal y cliente.
 
 ## Diagrama de Clases
-![image](https://github.com/user-attachments/assets/fe2f949f-f79f-4a66-bbf1-a1771386bce0)
+![image](https://github.com/user-attachments/assets/8b06ddfc-c182-46d4-9e4d-20d3fd9876d2)
 
 ## Archivos Importantes
 1. models.py
