@@ -24,17 +24,17 @@ El sistema se desarrollará utilizando el framework Django, permitiendo la gesti
 ![image](https://github.com/user-attachments/assets/8b06ddfc-c182-46d4-9e4d-20d3fd9876d2)
 
 ## Archivos Importantes
-1. models.py
+1. [models.py](https://github.com/Michu117/FarmaciasAPE/blob/main/FarmaciasAPE/Farmacia/models.py)
 
-2. admin.py
+2. [admin.py](https://github.com/Michu117/FarmaciasAPE/blob/main/FarmaciasAPE/Farmacia/admin.py)
 
-3. forms.py
+3. [forms.py](https://github.com/Michu117/FarmaciasAPE/blob/main/FarmaciasAPE/Farmacia/forms.py)
 
-4. views.py
+4. [views.py](https://github.com/Michu117/FarmaciasAPE/blob/main/FarmaciasAPE/Farmacia/views.py)
 
-5. urls.py
+5. [urls.py](https://github.com/Michu117/FarmaciasAPE/blob/main/FarmaciasAPE/FarmaciasAPE/urls.py)
 
-6. templates
+6. [templates](https://github.com/Michu117/FarmaciasAPE/tree/main/FarmaciasAPE/templates)
 
 ## Tecnologías Utilizadas
 
